@@ -1,0 +1,48 @@
+body {
+
+    background: linear-gradient(rgb(182, 185, 201), rgb(163, 179, 163));
+    font-family:monospace;
+
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+}
+
+input {
+
+border: 5px solid black ;
+color: green;
+font-style:inherit;
+text-align: center;
+
+}
+
+fieldset{
+
+border: 5px solid black;
+font-style: italic;
+text-align: center;
+
+
+}
+
+legend{
+
+    color: yellow;
+    font-weight: 500;
+    font-size: 150%;
+    
+    }
+
+label {
+        color: yellow;
+        font-weight: 500;
+        font-size: 150%;  
+}
